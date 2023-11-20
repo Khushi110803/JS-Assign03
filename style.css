@@ -518,6 +518,7 @@ about>.about_main>.about_text>h1
     background-image: url(image/bg2.jpg);
     background-size: cover;
     background-position: center;
+    margin-left: 150%;
 }
 
 .order h1{
